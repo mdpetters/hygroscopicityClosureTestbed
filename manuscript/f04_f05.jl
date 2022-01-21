@@ -94,7 +94,7 @@ function setup_case(df, i)
     )
 end
 
-data = CSV.read("../data/GoAmazon2_Data_for_Markus.csv", DataFrame)
+data = CSV.read("../data/GoAmazon2_Data.csv", DataFrame)
 df = getdf(data, :RKappa_median_222, :Rkappa_sd_222)
 λ = i -> @> setup_case(df, i) TestBed.plot_constraints
 r = map(λ, 1:length(df[!, 1]))
