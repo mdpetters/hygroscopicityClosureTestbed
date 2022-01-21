@@ -1,0 +1,47 @@
+ 
+ MESSAGE from AIOMFAC: input file exists.
+ 
+ MESSAGE from AIOMFAC: input file has passed the first line text validation and will be read.
+ 
+ MESSAGE from AIOMFAC: reading component data from input file.
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           1
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           2
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           3
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           4
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           5
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           6
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           7
+ 
+ MESSAGE from AIOMFAC: found a component cpno =           8
+ 
+ MESSAGE from AIOMFAC: component data read.
+ MESSAGE from AIOMFAC: number of components:            8
+ 
+ MESSAGE from AIOMFAC: composition points read.
+ MESSAGE from AIOMFAC: number of points:           94
+ 
+MESSAGE from AIOMFAC: input file read, starting AIOMFAC mixture definitions and initialization... 
+ 
+ 
+MESSAGE from AIOMFAC: mixture defined, calculating composition points... 
+ 
+................................................................................
+MESSAGE from AIOMFAC: computations successfully performed.
+Output file, AIOMFAC_output_0001.txt created at path: Outputfiles/
+................................................................................
+ +-+-+-+-+
+Final warning indicator (an entry '00' means no warnings found):
+00
+ +-+-+-+-+
+ 
+ ########
+Final error indicator (an entry '00' means no errors found):
+00
+ ########
